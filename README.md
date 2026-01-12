@@ -52,7 +52,6 @@ Create a `.env` file inside the server folder and add:
 AI_API_KEY=your_api_key_here
 JWT_SECRET=your_secret_key
 
-- Team Member 3
 
 ## Future Enhancements
 - Resume ranking dashboard
